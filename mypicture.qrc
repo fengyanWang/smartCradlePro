@@ -1,0 +1,29 @@
+<RCC>
+  <qresource prefix="rc">
+    <file>picture/b1.jpg</file>
+    <file>picture/b2.jpg</file>
+    <file>picture/b3.jpg</file>
+    <file>picture/b4.jpg</file>
+    <file>picture/b5.jpg</file>
+    <file>picture/b6.jpg</file>
+    <file>picture/b7.jpg</file>
+    <file>picture/b8.jpg</file>
+    <file>picture/b9.jpg</file>
+    <file>picture/b10.jpg</file>
+    <file>picture/b11.jpg</file>
+    <file>picture/b12.jpg</file>
+    <file>picture/b13.jpg</file>
+    <file>picture/b14.jpg</file>
+    <file>picture/b15.jpg</file>
+    <file>picture/xiuli.jpg</file>
+    <file>picture/police1.jpg</file>
+    <file>picture/teacher1.jpg</file>
+    <file>picture/teacher.jpg</file>
+    <file>picture/police.jpg</file>
+    <file>picture/doctor.jpg</file>
+    <file>picture/保姆.jpg</file>
+    <file>picture/stop1.gif</file>
+    <file>picture/stop.gif</file>
+    <file>picture/baby1.jpg</file>
+  </qresource>
+</RCC>
